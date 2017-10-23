@@ -19,7 +19,6 @@ function nombreAlumnos(listaAlumnos) {
     }
     return nombres;
 }
-
 /**
  * @description Función que nos devuelve un objeto alumno, buscamos por nombre
  * @param {Array} listaAlumnos Array de objetos. 
