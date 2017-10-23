@@ -1,0 +1,58 @@
+[
+    {
+        "nombre": "Pedro",
+        "apellidos": ["Perez", "Perez"],
+        "fecha": "1998-03-12",
+        "asignaturas": ["Programación", "Bases de Datos", "Lenguajes de Marcas", "Entornos de Desarrollo","Sistemas"],
+        "curso": "primero"
+    },
+    {
+        "nombre": "Juan",
+        "apellidos": ["Rodriguez", "Perez"],
+        "fecha": "1998-03-12",
+        "asignaturas": ["Programación", "Bases de Datos", "Lenguajes de Marcas", "Entornos de Desarrollo","Sistemas"],
+        "curso": "primero"
+    },
+    {
+        "nombre": "Luis",
+        "apellidos": ["Garcia", "Martin"],
+        "fecha": "1998-03-12",
+        "asignaturas": ["Programación", "Bases de Datos", "Lenguajes de Marcas", "Entornos de Desarrollo","Sistemas"],
+        "curso": "primero"
+    },
+    {
+        "nombre": "Ana",
+        "apellidos": ["Ruíz", "Manlos"],
+        "fecha": "1998-03-12",
+        "asignaturas": ["Programación", "Bases de Datos", "Lenguajes de Marcas", "Entornos de Desarrollo","Sistemas"],
+        "curso": "primero"
+    },
+    {
+        "nombre": "Patricia",
+        "apellidos": ["Martinez", "Dominguez"],
+        "fecha": "1998-03-12",
+        "asignaturas": ["Programación", "Bases de Datos", "Lenguajes de Marcas", "Entornos de Desarrollo","Sistemas"],
+        "curso": "primero"
+    },
+    {
+        "nombre": "Marina",
+        "apellidos": ["Lopez", "Martín"],
+        "fecha": "1998-03-12",
+        "asignaturas": ["Servidor", "Cliente", "Despliegues", "Interfaces","Empresa","Sistemas"],
+        "curso": "segundo"
+    },
+    {
+        "nombre": "Ana",
+        "apellidos": ["Perez", "Rodriguez"],
+        "fecha": "1998-03-12",
+        "asignaturas": ["Servidor", "Cliente",  "Bases de Datos", "Despliegues", "Interfaces","Empresa"],
+        "curso": "segundo"
+    },
+    {
+        "nombre": "Manolo",
+        "apellidos": ["Sanchez", "Perez"],
+        "fecha": "1998-03-12",
+        "asignaturas": ["Servidor", "Cliente", "Bases de Datos", "Despliegues", "Interfaces","Empresa"],
+        "curso": "segundo"
+    }
+]
